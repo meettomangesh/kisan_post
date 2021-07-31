@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kisanfarmfresh-test",
+  "private_key_id": "11e01b215aa0a9d7c10ebd4b6181855e339a4479",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQClzakxej4Z/l1q\nUCNIFYMqz2zuFTH1EeJItF5L323IoOgmIscCkff7semRw2Gxeyb5rRGcNsILtPyP\ngavEZvl7i4hHaOaW6J7BfS7Nij140qAmoOiRiK2nXop22YeW3eM5YGS9zMFa8mWs\n7VyPaLYSMHAm1Jj2rHN8FYuHlS4+IRtEmFE6TU3uOSaddG3yGd5rokD8WIuqFXc/\ndBBJHLRkmiGLBhrCOcUOFeE8K9C6XDwZg80+VdiRtfWQwWuyUyKXdOLXpiTjBWHw\ngCprxU8ZYnkKR7Dn3+7Gi7mv/urw1xc+Ann3Pbw8qu8GWXnagA6Bch0crQcOH6YL\nByOVZfIrAgMBAAECggEAB04d58Oqi8ukwwPf4hOskUzNUFoXtuQAU9K6mt4vwJiy\nUcfTe94BjpHiqBzzJ3Y1G+gPsBHLj+d7/zin4EHnORXHPdo12q1KHV1OHBk8px+k\nlb8eMBdVC1xDfoQMEM4a7lK8bY5hcIfgifN1Ug47g2al8lgIm0my1uM+IA2nGW6a\n0o7tFeWmTfoPFvX8hxZRISlDZS35eDBdA/R8Ais9yXLbMhU8grEtc6Iw/JhKdEfs\na86fISkC05vuZb1QP1dD/F7LcO7Mcz5qfHs5upxMOmOSCGRWu0ZIhdZPB+ASpoDn\nXiGAApUKnfy6OQnT6T/ZX6JlYGy5pExHCUfTra10SQKBgQDUm/OMQJxWIihHPUyR\nLsexKqacQAHDOHMEGbSscrKt7wBHLZL2P90gO6ff2QQqR+aNCOS64PJuEupGctVq\nq3ExbTFi94/vGOC22Dncbbzng8dPgJp+8pa6SnPgKcRMTcCwk1uory8fXqXbHko3\n7W/QBSPIig1rSdg6RVxeWRU1OQKBgQDHpEcANu7gsMV2iSc+JbNqV1WVAQQj+AK2\n2pwm08bPTBiqXLPEGZiFArD503XA57iDmiBL4P0bF2XFZjQsO+Yf1NxziB3jsERX\n2qN3MEFWXkHNSt+syKU0psCqkEhQp9Nua84JQv++sBB++1aWXa4ta51HgvdfvkHl\nAb643g9mgwKBgQC5Bkc7hXcIlo1LAhPCPV3X1vBMBoACLvwZU22irebF67roNscw\nun9r77621hwD17LShizYXa9dD+UGDiWgwTau9wIFyMBgKdxWA3LHXFELgelQTPEn\nDWMTGHwjVvXYGcpZYMRh1qNBv5LDUGbyqRWniPGNMmdfOVKN05MBILGOMQKBgCXW\nX9KNlsalGje2FOb1dESyWrkL4UID7lfDpRbCyopdbMtVGIkRJNQIx4wB5O5zvIfM\nvVRERxRMYfCAx2Ce1aWwzTtkT+3oaXuRJ6weTDPXV3dWOoBf4tfQxvFMuTf4Jt1l\ntz4QIbJ9YhL/BdEn3iwjmkKEcugFgi2qIACfraGLAoGBAKzWJCfm97HbxZ2/5R0A\n3ya0LSub2Mb54OU5TF5k9dHFK2+k4gnd8OWe9OMNfpz/pcPxhZxMPVsuYLuk9tPy\nMcwuG3a4qYu5YI72oxA38X2BlFars9waynZyq17KaDMUeGT4G0y2yQX3Tsb9z3kY\ngM1Rg5u9gnQvVauzb22KGMbb\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2g5tk@kisanfarmfresh-test.iam.gserviceaccount.com",
+  "client_id": "104430037369746987748",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2g5tk%40kisanfarmfresh-test.iam.gserviceaccount.com"
+}
